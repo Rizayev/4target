@@ -544,3 +544,23 @@ body {
 
 .social .comp {
   margin-top: 87px; }
+
+.target .header-text__h1 {
+  font-size: 36px; }
+
+.target .header-text__h2 {
+  line-height: 30px; }
+
+.target .header--btn {
+  width: 257px; }
+
+.target .target-what-get {
+  background-color: #eaf3fe;
+  padding-bottom: 50px; }
+  .target .target-what-get p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px; }
+
+.target .our-cases {
+  margin-bottom: 50px; }
