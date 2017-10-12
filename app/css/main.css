@@ -494,9 +494,9 @@ body {
   -webkit-align-self: center;
       -ms-flex-item-align: center;
           align-self: center;
-  -webkit-flex-basis: 480px;
-      -ms-flex-preferred-size: 480px;
-          flex-basis: 480px; }
+  -webkit-flex-basis: 490px;
+      -ms-flex-preferred-size: 490px;
+          flex-basis: 490px; }
 
 .web-dev .why-seo .item .why-seo-p {
   height: auto;
