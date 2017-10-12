@@ -538,3 +538,9 @@ body {
     -webkit-align-self: center;
         -ms-flex-item-align: center;
             align-self: center; }
+
+.social .container {
+  position: relative; }
+
+.social .comp {
+  margin-top: 87px; }
