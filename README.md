@@ -1,4 +1,5 @@
-# 4card
+# 4target
+Ссылки на страницы
 https://rizayevworks.github.io/4target/app/index.html <br>
 https://rizayevworks.github.io/4target/app/seo.html <br>
 https://rizayevworks.github.io/4target/app/web-dev.html <br>
