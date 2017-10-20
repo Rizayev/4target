@@ -217,7 +217,8 @@ body {
             border-radius: 10px;
     background-color: #ffffff;
     margin: 0 auto;
-    margin-bottom: 65px; }
+    margin-bottom: 65px;
+    border: 1px solid #dcdcdc; }
   .work-scheme .number {
     display: block;
     width: 63px;
