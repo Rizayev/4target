@@ -46,7 +46,6 @@ body {
   color: #454444;
   font-size: 40px;
   font-weight: 700;
-  line-height: 60px;
   letter-spacing: 0.2px;
   margin-bottom: 30px;
   margin-top: 0; }
@@ -55,7 +54,8 @@ body {
   color: #454444;
   font-size: 20px;
   font-weight: 400;
-  margin-bottom: 30px; }
+  margin-bottom: 30px;
+  line-height: 30px; }
 
 .header--btn {
   width: 227px;
